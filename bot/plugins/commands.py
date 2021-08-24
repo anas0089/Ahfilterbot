@@ -108,7 +108,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('⚙CHANNEL', url='https://t.me/Royalbotz'),
-        InlineKeyboardButton('🗄 DEV', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('🗄 DEV', url ='https://t.me/haseeb_tg')
     ],[
         InlineKeyboardButton('🗯 SUPPORT', url='https://t.me/CrazyBotszGrp')
     ],[
